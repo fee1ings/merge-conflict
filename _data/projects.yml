@@ -5,7 +5,7 @@
 - project: probot
   role: Contributor
   duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
+  url: "https://github.com/probot/catrobot"
   description: A framework for building GitHub Apps to automate and improve your workflow
 
 # GitHub Classroom
